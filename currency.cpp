@@ -12,7 +12,8 @@ class Currency
 };
 
 
-int main() {
+int main() 
+{
     Currency colombianPesos;
     colombianPesos.conversionRateToUsd = 0.00026;
 
